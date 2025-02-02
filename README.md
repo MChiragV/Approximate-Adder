@@ -4,5 +4,4 @@ Implementation of the research paper "Design and Analysis of an Approximate Adde
 
 <br> Refer to "DCMOSProject.pdf" for further details regarding the same.
 
-<br> The obtained reports for each adder is present in the "Reports/"directory of that adder's directory in the above file structure.
-
+<br> The obtained reports for each adder is present in the "Reports/"directory of that adder's directory in the above file structure. Example: For RCA, the obtained reports are present in "RCA/Reports" directory.
