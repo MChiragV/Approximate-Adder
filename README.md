@@ -1,16 +1,7 @@
-Implementation of the research paper "Design and Analysis of an Approximate Adder with Hybrid Error Reduction" by Hyoju Seo,Yoon Seok Yang and Yongtae Kim.
-
-<br> Link to the research paper: https://www.mdpi.com/2079-9292/9/3/471
-
-<br> Refer to "DCMOSProject.pdf" for further details regarding the same.
-
-<br> The obtained reports for each adder is present in the "Reports/"directory of that adder's directory in the above file structure. Example: For RCA, the obtained reports are present in "RCA/Reports" directory.
-
-
-
 # Approximate Adder with Hybrid Error Reduction
 
-This repository contains the implementation and analysis of various approximate adder designs with a focus on the proposed HERLOA (Hybrid Error Reduction Lower-part OR Adder) architecture.
+This repository contains the implementation and analysis of various approximate adder designs with a focus on the proposed HERLOA (Hybrid Error Reduction Lower-part OR Adder) architecture. The research paper that was referred to: "Design and Analysis of an Approximate Adder with Hybrid Error Reduction" by Hyoju Seo,Yoon Seok Yang and Yongtae Kim.
+<br> Link to the research paper: https://www.mdpi.com/2079-9292/9/3/471
 
 ## Introduction
 
